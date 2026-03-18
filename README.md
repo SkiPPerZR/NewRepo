@@ -1,0 +1,2 @@
+# NewRepo
+for future projects
